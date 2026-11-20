@@ -1,0 +1,68 @@
+<svg width="2411" height="978" viewBox="0 0 2411 978" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M291 280H385.858V374.502H291V280Z" fill="white"/>
+<path d="M385.858 280L480.47 349.441V443.942L385.858 374.502V280Z" fill="white"/>
+<path d="M291 374.502H385.858V469.085H291V374.502Z" fill="white"/>
+<path d="M480.47 349.441H575V443.942H480.47V349.441Z" fill="white"/>
+<path d="M385.858 585.407L480.47 658.416V753L385.858 679.991V585.407Z" fill="white"/>
+<path d="M480.47 658.416H575V753H480.47V658.416Z" fill="white"/>
+<path d="M291 585.407H385.858V679.991H291V585.407Z" fill="white"/>
+<path d="M480.47 563.915H575V658.416H480.47V563.915Z" fill="white"/>
+<path d="M385.858 469.085H480.47V563.915H385.858V469.085Z" fill="white"/>
+<path d="M480.47 469.085H575V563.915H480.47V469.085Z" fill="white"/>
+<path d="M908 659H1002.83V753.5H908V659Z" fill="white"/>
+<path d="M718 659H812.834V753.5H718V659Z" fill="white"/>
+<path d="M813 564H907.834V658.5H813V564Z" fill="white"/>
+<path d="M625 281H720V659H625V281Z" fill="white"/>
+<path d="M1003 281H1098V659H1003V281Z" fill="white"/>
+<path d="M1148 276H1242V753H1148V276Z" fill="white"/>
+<path d="M1382 276H1476.83V370.5H1382V276Z" fill="white"/>
+<path d="M1477 371H1571.83V465.5H1477V371Z" fill="white"/>
+<path d="M1572 466H1666.83V560.5H1572V466Z" fill="white"/>
+<path d="M1292 276H1386V753H1292V276Z" fill="white"/>
+<path d="M1663 276H1757V753H1663V276Z" fill="white"/>
+<path d="M1901 658H2202V753H1901V658Z" fill="white"/>
+<path d="M2107 569H2201.83V663.5H2107V569Z" fill="white"/>
+<path d="M2012 474H2106.83V568.5H2012V474Z" fill="white"/>
+<path d="M1901 276H2202V371H1901V276Z" fill="white"/>
+<path d="M1807 276H1901V753H1807V276Z" fill="white"/>
+<g filter="url(#filter0_d_2217_2)">
+<path d="M291 250H385.858V344.502H291V250Z" fill="white"/>
+<path d="M385.858 250L480.47 319.441V413.942L385.858 344.502V250Z" fill="white"/>
+<path d="M291 344.502H385.858V439.085H291V344.502Z" fill="white"/>
+<path d="M480.47 319.441H575V413.942H480.47V319.441Z" fill="white"/>
+<path d="M385.858 555.407L480.47 628.416V723L385.858 649.991V555.407Z" fill="white"/>
+<path d="M480.47 628.416H575V723H480.47V628.416Z" fill="white"/>
+<path d="M291 555.407H385.858V649.991H291V555.407Z" fill="white"/>
+<path d="M480.47 533.915H575V628.416H480.47V533.915Z" fill="white"/>
+<path d="M385.858 439.085H480.47V533.915H385.858V439.085Z" fill="white"/>
+<path d="M480.47 439.085H575V533.915H480.47V439.085Z" fill="white"/>
+<path d="M908 629H1002.83V723.5H908V629Z" fill="white"/>
+<path d="M718 629H812.834V723.5H718V629Z" fill="white"/>
+<path d="M813 534H907.834V628.5H813V534Z" fill="white"/>
+<path d="M625 251H720V629H625V251Z" fill="white"/>
+<path d="M1003 251H1098V629H1003V251Z" fill="white"/>
+<path d="M1148 246H1242V723H1148V246Z" fill="white"/>
+<path d="M1382 246H1476.83V340.5H1382V246Z" fill="white"/>
+<path d="M1477 341H1571.83V435.5H1477V341Z" fill="white"/>
+<path d="M1572 436H1666.83V530.5H1572V436Z" fill="white"/>
+<path d="M1292 246H1386V723H1292V246Z" fill="white"/>
+<path d="M1663 246H1757V723H1663V246Z" fill="white"/>
+<path d="M1901 628H2202V723H1901V628Z" fill="white"/>
+<path d="M2107 539H2201.83V633.5H2107V539Z" fill="white"/>
+<path d="M2012 444H2106.83V538.5H2012V444Z" fill="white"/>
+<path d="M1901 246H2202V341H1901V246Z" fill="white"/>
+<path d="M1807 246H1901V723H1807V246Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_d_2217_2" x="0" y="0" width="2411" height="977.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="-41" dy="4"/>
+<feGaussianBlur stdDeviation="125"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2217_2"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2217_2" result="shape"/>
+</filter>
+</defs>
+</svg>
